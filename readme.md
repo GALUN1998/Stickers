@@ -1,10 +1,10 @@
 # Stickers
 
-[羊泡泡](./SheepBubbles/)
+[羊羊](./羊羊打工日记/)
 
-[羊泡泡2](./SheepBubbles2/)
+[羊羊2](./羊羊2/)
 
-[羊泡泡单品](./SheepBubbles-items/)
+[羊羊单品](./羊羊-单品/)
 
 [艺术家资料](./ArtistInfo/)
 
